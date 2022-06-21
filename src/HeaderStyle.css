@@ -1,0 +1,29 @@
+.header{
+    width: 100%;
+    background-color: rgb(41, 41, 41);
+    height: 1.5em;
+    box-shadow: 0px 10px 10px rgba(59, 59, 59,0.8);
+    align-items: center;
+    padding: 18px;
+    display: flex;
+}
+
+.header a{
+    margin : 0 10px;
+    font-size: large;
+    color: white;
+    
+}
+
+.header h2{
+    width: 7%;
+    margin-left: 0;
+    background-color: white;
+}
+
+nav{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+

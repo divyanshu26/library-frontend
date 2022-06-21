@@ -1,0 +1,11 @@
+.dashboard-heading{
+    font-size: large;
+    font-weight: bold;
+    height: 1em;
+    width: 100%;
+}
+
+.dashboard-user{
+    margin-left: 9em;
+    margin-top: 1em;;
+}
